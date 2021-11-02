@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Father, Developer interested in all things sustainable!!
 
-- 🌱 I’m currently learning everything open to opportunities 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other like-minded developer's and entrepreneur's
 - 🥅 2022 Goals: Contribute more to Open Source projects, develop an api for the benefit of those around me.
 - ⚡ Fun fact: I love to spend time with my family , dogs and  play guitar.
@@ -21,9 +21,7 @@
 
 <br />
 
-
-<br /><br /><br />
-
+<br />
 
 <br />
 
@@ -42,12 +40,10 @@
 <img vertical-align="left" alt="sperezintexas | Azure" width="22px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img vertical-align="left" alt="sperezintexas | AWS" width="22px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
 <img vertical-align="left" alt="sperezintexas | Kubernetes" width="22px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-<img vertical-align="left" alt="sperezintexas | Unix" width="22px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
 <img vertical-align="left" alt="sperezintexas | Pivotal" width="22px" src="https://www.vectorlogo.zone/logos/pivotalio/pivotalio-icon.svg" />
 
 
-<br />
-<br />
+
 
 
 [twitter]: https://twitter.com/sperezintexas
