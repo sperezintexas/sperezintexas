@@ -9,9 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sperezintexas | Twitter]="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg)][twitter]
-[<img align="left" alt="samuelperez | LinkedIn]="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)][linkedin]
-[<img align="left" alt="sperezintexas | Instagram]="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)][instagram]
+<a href="https://twitter.com/sperezintexas?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @sperezintexas</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <br />
 
@@ -33,8 +32,4 @@
 
 <br/>
 
-[twitter]: https://twitter.com/sperezintexas
 
-[instagram]: https://instagram.com/sperezintexas
-
-[linkedin]: https://www.linkedin.com/in/samuelperez/
