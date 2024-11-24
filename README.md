@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other like-minded developer's and entrepreneur's
-- 🥅 2022 Goals: Contribute more to Open Source projects, develop an api for the benefit of those around me.
+- 🥅 2025 Goals: Contribute more to Open Source projects, develop api's for the benefit of those around me, like an AI assistant to provide value.
 - ⚡ Fun fact: I love to spend time with my family , dogs and play guitar.
 
 ### Connect with me:
