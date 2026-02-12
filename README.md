@@ -1,24 +1,23 @@
-# Samuel Perez in Austin, TX
+# Samuel Perez · Austin, TX
 
-## I'm a Husband, Father, Developer interested in all things sustainable!!
+**Husband · Father · Tech maverick.** Building sustainable systems and shipping code that matters.
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other like-minded developer's and entrepreneur's
-- 🥅 2025 Goals: Contribute more to Open Source projects, develop api's for the benefit of those around me, like an AI assistant to provide value.
-- ⚡ Fun fact: I love to spend time with my family , dogs and play guitar.
+- 🌱 Learning everything that moves the needle—APIs, AI, infra, and the stuff that breaks the mold
+- 👯 Open to collabs with builders, devs, and founders who ship instead of just talk
+- 🥅 2025: More OSS, APIs that add real value, and AI tooling that actually helps people
+- ⚡ Off the keyboard: family time, dogs, and guitar
 
-### Connect with me:
+---
 
-<a href="https://twitter.com/sperezintexas?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @sperezintexas</a>
+### Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelperez/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sperezintexas)
 
-<br />
+---
 
-<br />
+### Stack
 
-<br />
-
-### Languages and Tools:
 ![Java](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Groovy](https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg)
@@ -28,8 +27,3 @@
 ![Jenkins Cloudbees](https://www.vectorlogo.zone/logos/cloudbees/cloudbees-icon.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
 ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-
-
-<br/>
-
-
