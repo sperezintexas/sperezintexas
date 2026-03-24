@@ -1,29 +1,41 @@
-# Samuel Perez · Austin, TX
+# Samuel Perez 👋
 
-**Husband · Father · Tech maverick.** Building sustainable systems and shipping code that matters.
+**aTx Finance Advisor** · Austin, TX
 
-- 🌱 Learning everything that moves the needle—APIs, AI, infra, and the stuff that breaks the mold
-- 👯 Open to collabs with builders, devs, and founders who ship instead of just talk
-- 🥅 2025: More OSS, APIs that add real value, and AI tooling that actually helps people
-- ⚡ Off the keyboard: family time, dogs, and guitar
+**Husband · Father · Tech Maverick.**  
+Building sustainable systems and shipping code that actually matters in FinTech.
+
+---
+
+### 🌱 What Moves the Needle Right Now
+- Architecting scalable APIs, event-driven systems & cloud-native infra  
+- Building AI-powered tools that solve real finance problems  
+- Creating production-grade solutions people actually use
+
+### 👯 Let's Ship Something
+Open to collaborations with builders, devs, and founders who ship instead of just talk.
+
+### 🥅 2025 Goals
+- More meaningful Open Source contributions  
+- APIs that deliver real business value  
+- Practical AI tooling that helps everyday people
+
+### ⚡ Off the Keyboard
+Family time, our dogs, and playing guitar
 
 ---
 
 ### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelperez/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sperezintexas)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sperezintexas)
+[![Website](https://img.shields.io/badge/Website-atx.fintech--advisor.ai-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atx.fintech-advisor.ai)
 
 ---
 
-### Stack
+### 🛠️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=java,python,groovy,nodejs,react,typescript,aws,kubernetes,docker,kafka,jenkins&perline=10)
 
-![Java](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![Groovy](https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg)
-![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)
-![Jenkins Cloudbees](https://www.vectorlogo.zone/logos/cloudbees/cloudbees-icon.svg)
-![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
-![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+---
+
+### 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sperezintexas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sperezintexas&layout=compact&theme=radical&hide_border=true)
