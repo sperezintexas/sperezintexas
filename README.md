@@ -1,6 +1,9 @@
 # Samuel Perez 👋
 
-**aTx Finance Advisor** · Austin, TX
+**aTx Fintech Advisory** · 
+software and services for finance professionals. decision insights.
+
+check out, https://atx.fintech-advisor.ai/xchat
 
 **Husband · Father · Tech Maverick.**  
 Building sustainable systems and shipping code that actually matters in FinTech.
@@ -15,10 +18,9 @@ Building sustainable systems and shipping code that actually matters in FinTech.
 ### 👯 Let's Ship Something
 Open to collaborations with builders, devs, and founders who ship instead of just talk.
 
-### 🥅 2025 Goals
-- More meaningful Open Source contributions  
-- APIs that deliver real business value  
-- Practical AI tooling that helps everyday people
+### 🥅 2026 Goals
+- grow community by 10 users for trial
+- launch by Q1 27 licensed RIA investment strategies and actionable insights.
 
 ### ⚡ Off the Keyboard
 Family time, our dogs, and playing guitar
