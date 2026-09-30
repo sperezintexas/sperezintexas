@@ -3,7 +3,7 @@
 **aTx Fintech Advisory** · 
 software and services for finance professionals. decision insights.
 
-check out, https://atx.fintech-advisor.ai/xchat
+check out, https://fintech-advisor.ai/xchat
 
 **Husband · Father · Tech Maverick.**  
 Building sustainable systems and shipping code that actually matters in FinTech.
