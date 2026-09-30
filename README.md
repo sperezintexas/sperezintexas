@@ -29,7 +29,7 @@ Family time, our dogs, and playing guitar
 
 ### Connect
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sperezintexas)
-[![Website](https://img.shields.io/badge/Website-atx.fintech--advisor.ai-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atx.fintech-advisor.ai)
+[![Website](https://img.shields.io/badge/Website-atx.fintech--advisor.ai-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fintech-advisor.ai)
 
 ---
 
